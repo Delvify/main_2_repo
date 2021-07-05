@@ -1,3 +1,0 @@
-[submodule "backend/src"]
-	path = backend/src
-	url = https://github.com/Delvify/main_dbs.git
